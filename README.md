@@ -1,4 +1,4 @@
-# For research purpose for Team Project at Mannheim University 
+# For research purpose for Team Project at Mannheim University (Learning from offical github repository)
 
 ## StyleGAN2-ADA &mdash; Official PyTorch implementation
 
